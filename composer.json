@@ -1,5 +1,5 @@
 {
-    "name": " gowsram/g-translate",
+    "name": " gowsram/g-trans",
     "type": "library",
     "description": "ZF2 Google Translate module",
     "keywords": ["google","translate","google translate", "zf2"],
