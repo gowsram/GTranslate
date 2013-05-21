@@ -2,7 +2,7 @@
     "name": "gowsram/g-translate",
     "type": "library",
     "description": "ZF2 Google Translate module",
-    "keywords": ["google","translate","google translate", "zf2"],
+    "keywords": ["google","translate","google translate", "zf2", "zend framework 2", "zend framework", "zf2 google translate"],
     "homepage": "https://github.com/gowsram/GTranslate",
     "license": "",
     "authors": [
