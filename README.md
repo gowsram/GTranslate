@@ -5,8 +5,19 @@ GTranslate
 
 A Zend Framework 2 Module for Google Translate
 
+
+Installation
+------------
+
+### Main Setup
+
+#### By cloning project
+
+1. Clone this project into your `./vendor/` directory.
+
+
 Examples:
-    
+
 1. In the controller 
 
 	```php
