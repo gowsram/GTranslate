@@ -15,8 +15,22 @@ Installation
 
 1. Clone this project into your `./vendor/` directory.
 
+#### Post installation
 
-Examples:
+1. Enabling this module in your `application.config.php` file.
+
+    ```php
+    return array(
+        'modules' => array(
+            // ...
+            'GTranslate',
+    		// ...
+        ),
+        // ...
+    );
+    ```
+    
+#### Usage
 
 1. In the controller 
 
