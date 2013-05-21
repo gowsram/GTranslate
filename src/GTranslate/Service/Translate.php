@@ -105,6 +105,3 @@ class Translate {
 
 }
 
-//$var = new translate("en", "ta");
-//
-//echo $var->get("good");
