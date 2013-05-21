@@ -1,0 +1,27 @@
+{
+    "name": " gowsram/GTranslate",
+    "type": "library",
+    "description": "ZF2 Google Translate module",
+    "keywords": ["google","translate","google translate", "zf2"],
+    "homepage": "https://github.com/gowsram/GTranslate",
+    "license": "",
+    "authors": [
+        {
+            "name": "Ramkumar SankarPandi",
+            "email": "gowsram@gmail.com",
+            "homepage": ""
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "GTranslate": "src/"
+        },
+        "classmap": [
+            "./Module.php"
+        ]
+    }
+}
