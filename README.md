@@ -15,6 +15,7 @@ Installation
 
 1. This module is available on [Packagist](https://packagist.org/packages/gowsram/g-translate).
 In your project's `composer.json` use:
+
 	```json
     {   
         "require": {
