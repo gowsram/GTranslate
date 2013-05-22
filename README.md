@@ -15,14 +15,14 @@ Installation
 
 1. This module is available on [Packagist](https://packagist.org/packages/gowsram/g-translate).
 In your project's `composer.json` use:
-```json
+	```json
     {   
         "require": {
 			"php": ">=5.3.3",
 			"zendframework/zendframework": "*",
             "gowsram/g-translate": "dev-master"
     }
-```
+	```
 2. Or clone this project into your `./vendor/` directory.
 
 #### Post installation
