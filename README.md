@@ -13,7 +13,16 @@ Installation
 
 #### By cloning project
 
-1. Clone this project into your `./vendor/` directory.
+1. This module is available on [Packagist](https://packagist.org/packages/gowsram/g-translate).
+In your project's `composer.json` use:
+    {   
+        "require": {
+			"php": ">=5.3.3",
+			"zendframework/zendframework": "*",
+            "gowsram/g-translate": "dev-master"
+    }
+
+2. Or clone this project into your `./vendor/` directory.
 
 #### Post installation
 
